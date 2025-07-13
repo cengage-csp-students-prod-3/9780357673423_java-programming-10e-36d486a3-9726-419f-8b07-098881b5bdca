@@ -38,7 +38,6 @@ public class Main_Practice{
     String name = "Michael";
     String greeting = "Good Afternoon";
 
-
     System.out.println("Hello World!");
     System.out.println("My name is Michael and I am " + age + " years old.");
     System.out.println("I am learning how to program in Java in " + year + ".");
