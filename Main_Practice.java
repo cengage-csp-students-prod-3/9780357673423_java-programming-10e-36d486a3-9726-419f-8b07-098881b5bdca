@@ -43,6 +43,7 @@ public class Main_Practice{
     System.out.println("My name is Michael and I am " + age + " years old.");
     System.out.println("I am learning how to program in Java in " + year + ".");
     System.out.println("I want to buy a " + year + " Mustang that cost " + carPrice);
+    System.out.println("I wish I can use NeoVIM as my main IDE.")
 
 
     if (isSeniorCitizen){
